@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm passionate about technology, digital creativity, and b
 ---
 
 ## 💻 Currently Working On
-- Web development projects (React, JS, CSS, HTML)
+- Web development projects (React, JS, CSS, HTML,Flutter dev)
 - Automation & robotics-related coding
 - Graphic Designing & Video Editinv
 
