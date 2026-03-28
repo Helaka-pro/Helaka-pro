@@ -21,15 +21,15 @@ Welcome to my GitHub! I'm passionate about technology, digital creativity, and b
 
 ## 💻 Currently Working On
 - Web development projects (React, JS, CSS, HTML,Flutter dev)
-- Automation & robotics-related coding
+- Automation, robotics-related, Application-related, WebApplication-related coding
 - Graphic Designing & Video Editinv
 
 ---
 
 ## 🛠 Tools & Technologies I Use
-- **Programming & Web:** Java, Python, React, HTML, CSS, JavaScript
+- **Programming & Web:** Java, Python, React, HTML, CSS, JavaScript, Flutter
 - **Design & Creativity:** Photoshop, Figma, Canva
-- **Other Tools:** VS Code, GitHub, GitHub Copilot
+- **Other Tools:** VS Code, GitHub, GitHub Copilot, Android Studio, 
 
 ---
 
